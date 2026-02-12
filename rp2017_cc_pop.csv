@@ -1,0 +1,119 @@
+﻿"Évolution et structure de la population en 2017"
+"Département du Nord (59)"
+"© Insee"
+
+
+"POP T0 - Population par grandes tranches d'âges"
+"";"2007";"%";"2012";"%";"2017";"%";
+"Ensemble";"2564945";"100,0";"2587128";"100,0";"2604361";"100,0";
+"0 à 14 ans";"516288";"20,1";"520367";"20,1";"513774";"19,7";
+"15 à 29 ans";"555646";"21,7";"536303";"20,7";"520801";"20,0";
+"30 à 44 ans";"523518";"20,4";"510153";"19,7";"501993";"19,3";
+"45 à 59 ans";"503328";"19,6";"496262";"19,2";"492095";"18,9";
+"60 à 74 ans";"287521";"11,2";"330326";"12,8";"378615";"14,5";
+"75 ans ou plus";"178644";"7,0";"193717";"7,5";"197083";"7,6";
+
+"Sources : Insee, RP2007, RP2012 et RP2017, exploitations principales, géographie au 01/01/2020."
+
+
+"POP G2 - Population par grandes tranches d'âges"
+"";"2007";"2012";"2017";
+"0 à 14 ans";"20,1";"20,1";"19,7";
+"15 à 29 ans";"21,7";"20,7";"20,0";
+"30 à 44 ans";"20,4";"19,7";"19,3";
+"45 à 59 ans";"19,6";"19,2";"18,9";
+"60 à 74 ans";"11,2";"12,8";"14,5";
+"75 ans ou +";"7,0";"7,5";"7,6";
+
+"Sources : Insee, RP2007, RP2012 et RP2017, exploitations principales, géographie au 01/01/2020."
+
+
+"POP T1 - Population en historique depuis 1968"
+"";"1968(*)";"1975(*)";"1982";"1990";"1999";"2007";"2012";"2017";
+"Population";"2418847";"2511478";"2520526";"2531855";"2555020";"2564950";"2587128";"2604361";
+"Densité moyenne (hab/km²)";"421,2";"437,3";"438,9";"440,9";"444,9";"446,6";"450,5";"453,5";
+
+"(*) 1967 et 1974 pour les DOM"
+"Les données proposées sont établies à périmètre géographique identique, dans la géographie en vigueur au 01/01/2020."
+"Sources : Insee, RP1967 à 1999 dénombrements, RP2007 au RP2017 exploitations principales."
+
+
+"POP T2M - Indicateurs démographiques en historique depuis 1968"
+"";"1968 à 1975";"1975 à 1982";"1982 à 1990";"1990 à 1999";"1999 à 2007";"2007 à 2012";"2012 à 2017";
+"Variation annuelle moyenne de la population en %";"0,5";"0,1";"0,1";"0,1";"0,0";"0,2";"0,1";
+"due au solde naturel en %";"0,8";"0,7";"0,7";"0,6";"0,6";"0,6";"0,5";
+"due au solde apparent des entrées sorties en %";"-0,3";"-0,6";"-0,6";"-0,5";"-0,5";"-0,4";"-0,4";
+"Taux de natalité  (‰)";"19,4";"17,2";"16,7";"14,4";"14,3";"14,2";"13,6";
+"Taux de mortalité (‰)";"11,2";"10,7";"9,8";"8,9";"8,6";"8,5";"8,6";
+
+"Les données proposées sont établies à périmètre géographique identique, dans la géographie en vigueur au 01/01/2020."
+"Sources : Insee, RP1968 à 1999 dénombrements, RP2007 au RP2017 exploitations principales - État civil."
+
+
+"POP T3 - Population par sexe et âge en 2017"
+"";"Hommes";"%";"Femmes";"%";
+"Ensemble";"1257387";"100,0";"1346974";"100,0";
+"0 à 14 ans";"263076";"20,9";"250699";"18,6";
+"15 à 29 ans";"261702";"20,8";"259099";"19,2";
+"30 à 44 ans";"247923";"19,7";"254069";"18,9";
+"45 à 59 ans";"240736";"19,1";"251359";"18,7";
+"60 à 74 ans";"174563";"13,9";"204052";"15,1";
+"75 à 89 ans";"64004";"5,1";"110249";"8,2";
+"90 ans ou plus";"5383";"0,4";"17447";"1,3";
+"";"";"";"";"";
+"0 à 19 ans";"354870";"28,2";"338718";"25,1";
+"20 à 64 ans";"728707";"58,0";"755807";"56,1";
+"65 ans ou plus";"173810";"13,8";"252450";"18,7";
+
+"Source : Insee, RP2017 exploitation principale, géographie au 01/01/2020."
+
+
+"POP T4 - Lieu de résidence 1 an auparavant"
+"";"2017";"%";"2012";"%";
+"Personnes d'1 an ou plus habitant auparavant :";"2571198";"100,0";"2550073";"100,0";
+"Dans le même logement";"2286653";"88,9";"2256925";"88,5";
+"Dans un autre logement de la même commune";"107979";"4,2";"114236";"4,5";
+"Dans une autre commune";"176566";"6,9";"178912";"7,0";
+
+"Source : Insee, RP2017 exploitation principale, géographie au 01/01/2020."
+
+
+"POP G3 - Lieu de résidence antérieure par âge des personnes habitant un autre logement 1 an auparavant"
+"";"Dans un autre logement de la même commune";"Dans une autre commune";
+"1 à 14 ans";"42,4";"57,6";
+"15 à 24 ans";"34,0";"66,0";
+"25 à 54 ans";"37,6";"62,4";
+"55 ans ou plus";"41,0";"59,0";
+
+"Source : Insee, RP2017 exploitation principale, géographie au 01/01/2020."
+
+
+"POP T5 - Population de 15 ans ou plus selon la catégorie socioprofessionnelle"
+"";"2007";"%";"2012";"%";"2017";"%";
+"Ensemble";"2047652";"100,0";"2066653";"100,0";"2089782";"100,0";
+"Agriculteurs exploitants";"8241";"0,4";"7469";"0,4";"6308";"0,3";
+"Artisans, commerçants, chefs d'entreprise";"45580";"2,2";"50420";"2,4";"52364";"2,5";
+"Cadres et professions intellectuelles supérieures";"144433";"7,1";"162900";"7,9";"177038";"8,5";
+"Professions intermédiaires";"272583";"13,3";"285751";"13,8";"290579";"13,9";
+"Employés";"330019";"16,1";"338269";"16,4";"338204";"16,2";
+"Ouvriers";"323064";"15,8";"305775";"14,8";"286655";"13,7";
+"Retraités";"455860";"22,3";"484297";"23,4";"497729";"23,8";
+"Autres personnes sans activité professionnelle";"467872";"22,8";"431772";"20,9";"440905";"21,1";
+
+"Sources : Insee, RP2007, RP2012 et RP2017, exploitations complémentaires, géographie au 01/01/2020."
+
+
+"POP T6 - Population de 15 ans ou plus par sexe, âge et catégorie socioprofessionnelle en 2017"
+"";"Hommes";"Femmes";"Part en % de la population âgée de";
+"15 à 24 ans";"25 à 54 ans";"55 ans ou +";
+"Ensemble";"994261";"1095521";"100,0";"100,0";"100,0";
+"Agriculteurs exploitants";"4815";"1493";"0,1";"0,4";"0,3";
+"Artisans, commerçants, chefs d'entreprise";"37186";"15177";"0,4";"4,0";"1,5";
+"Cadres et professions intellectuelles supérieures";"105672";"71367";"1,8";"14,2";"3,9";
+"Professions intermédiaires";"134600";"155979";"7,1";"22,9";"5,0";
+"Employés";"87347";"250857";"12,6";"24,5";"6,6";
+"Ouvriers";"233578";"53076";"10,3";"21,3";"5,1";
+"Retraités";"219656";"278073";"0,0";"0,2";"67,4";
+"Autres personnes sans activité professionnelle";"171407";"269498";"67,7";"12,5";"10,3";
+
+"Source : Insee, RP2017 exploitation complémentaire, géographie au 01/01/2020."
